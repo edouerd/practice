@@ -1,0 +1,12 @@
+body {
+  background-color: white; }
+
+.blog .entry h1 {
+  font-size: 20px;
+  color: blue; }
+.blog .entry p {
+  font-size: 12px; }
+.blog .entry a {
+  color: red; }
+
+/*# sourceMappingURL=main.css.map */

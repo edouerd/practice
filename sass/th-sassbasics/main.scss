@@ -1,0 +1,11 @@
+p {
+  a {
+    color: red;
+    }
+  > a {
+    color: blue;
+    &:hover: {
+      opacity: 0.5;
+      }
+    }
+}
